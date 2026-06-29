@@ -1,4 +1,5 @@
-# 3D Annotator
+# Open3DInspection
+<img src ="https://github.com/zawawiAI/Open3DInspection/docs/Open3DInspection.png">
 
 A browser-based viewer for leaving **comments anchored in 3D (or 2D) space** on a
 wide range of assets. Drop in a model, switch to Annotate mode, click to drop a
