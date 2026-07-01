@@ -1,6 +1,12 @@
 # Open3DInspection
 <img src ="https://github.com/zawawiAI/Open3DInspection/blob/main/docs/Open3DInspection.png">
 
+
+
+https://github.com/user-attachments/assets/438f8f9a-eddc-4d53-af09-983af8c4fa64
+
+
+
 A browser-based viewer for leaving **comments anchored in 3D (or 2D) space** on a
 wide range of assets. Drop in a model, switch to Annotate mode, click to drop a
 pin, and write a comment. Annotations are saved automatically and can be
